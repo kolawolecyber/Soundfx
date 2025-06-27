@@ -1,2 +1,16 @@
-# Soundfx
-SoundFX is a sleek and fully functional desktop music player built with JavaFX. It supports core audio playback features including Play, Pause, Next, Previous, and Volume Control. Designed with a focus on user interaction and simplicity, this project showcases effective use of JavaFX's multimedia and UI capabilities.
+
+# 🎧 SoundFX Player
+
+A sleek and functional music player built using **JavaFX**. SoundFX provides a simple yet interactive desktop audio experience with essential playback controls like **Play**, **Pause**, **Next**, **Previous**, and **Volume Adjustment**.
+
+---
+
+## 🛠️ Features
+
+- ▶️ **Play/Pause** audio files
+- ⏮️ ⏭️ **Previous/Next** track navigation
+- 🔊 **Volume control** with slider
+- 🎨 Built with a responsive **JavaFX GUI (FXML)**
+
+---
+
